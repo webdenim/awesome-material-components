@@ -85,7 +85,7 @@ a broad topic of community-based implementations of Material Design in [the exis
 
 ## Contribute
 
-Contributions welcome! Please read the [contribution guidelines](CONTIRBUTING.md) first.
+Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
