@@ -18,6 +18,8 @@ about its community.
 - The pull request and commit should have a useful title.
 - The body of your commit message should contain a link to the repository.
 
+## MDC-Web Framework Integrations Guidelines
+
 There are additional guidelines for adding MDC-Web Framework Integrations:
 
 - Project should have a documentation and live demo.
