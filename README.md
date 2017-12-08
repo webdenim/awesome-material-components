@@ -3,11 +3,11 @@
 > A curated list of awesome projects related to Google's Material Components.
 
 Awesome Material Components is a collection of resources related to official Google's
-[Material Components](https://material.io/components/)
-(as opposed to a broad topic of community-based implementations of Material Design in
-[the existing list](https://github.com/sachin1092/awesome-material)).
+[Material Components library](https://material.io/components/). It's opposed to community-based
+implementations of Material Design featured in
+[another list](https://github.com/sachin1092/awesome-material)).
 
-The goal of this list is to increase the adoption of Material Components by sharing
+The purpose of this list is to increase the adoption of Material Components by sharing
 the knowledge about its community. So, if you have an interesting MDC-based project or tutorial,
 feel free to [contribute](CONTRIBUTING.md).
 
