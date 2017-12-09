@@ -53,7 +53,7 @@ among your friends! Thank you!
   - [prateekbh/preact-material-components](https://github.com/prateekbh/preact-material-components)
 * React
   - [kradio3/react-mdc-web](https://github.com/kradio3/react-mdc-web)
-  - [react-mdc/react-material-components-web](https://github.com/react-mdc/react-material-components-web)
+  - [react-mdc/react-material-components-web](https://github.com/react-mdc/react-material-components-web) - typed with TypeScript
   - [jamesmfriedman/rmwc](https://github.com/jamesmfriedman/rmwc)
   - [react-material-design/react-material-design](https://github.com/react-material-design/react-material-design)
   - [gutenye/react-mc](https://github.com/gutenye/react-mc)
