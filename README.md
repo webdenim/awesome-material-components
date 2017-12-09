@@ -2,8 +2,8 @@
 
 > A curated list of awesome projects related to Google's Material Components.
 
-Awesome Material Components is a collection of resources related to official Google's
-[Material Components library](https://material.io/components/). It's opposed to community-based
+Awesome Material Components is a collection of resources related to the official Google's
+[Material Components library](https://material.io/components/). It's opposed to the community-based
 implementations of Material Design featured in
 [another list](https://github.com/sachin1092/awesome-material).
 
