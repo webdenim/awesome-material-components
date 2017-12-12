@@ -17,16 +17,16 @@ among your friends! Thank you!
 
 ## Contents
 
-- [MDC-Web](#mdc-web)
+- [MDC-Web](#material-components-web-mdc-web)
   - [MDC-Web Resources](#mdc-web-resources)
   - [MDC-Web Framework Integrations](#mdc-web-framework-integrations)
   - [Projects Using MDC-Web](#projects-using-mdc-web)
-- [MDC-Android](#mdc-android)
+- [MDC-Android](#material-components-web-mdc-android)
   - [MDC-Android Resources](#mdc-android-resources)
-- [MDC-iOS](#mdc-ios)
+- [MDC-iOS](#material-components-web-mdc-ios)
   - [MDC-iOS Resources](#mdc-ios-resources)
 
-## MDC-Web
+## Material Components Web (MDC-Web)
 
 ### MDC-Web Resources
 
@@ -68,7 +68,7 @@ among your friends! Thank you!
   - [GoogleChromeLabs/sample-currency-converter](https://github.com/GoogleChromeLabs/sample-currency-converter) - A sample currency conversion Progressive Web App.
   - [mya-ake/vuejs-pwa-and-ssr-on-lambda](https://github.com/mya-ake/vuejs-pwa-and-ssr-on-lambda) - Vue.js Progressive Web App with SSR.
 
-## MDC-Android
+## Material Components Android (MDC-Android)
 
 ### MDC-Android Resources
 
@@ -81,7 +81,7 @@ among your friends! Thank you!
   - [CodeLabs - Building Beautiful Apps Faster with Material Components on Android](https://codelabs.developers.google.com/codelabs/mdc-android/index.html)
   - [CodeLabs - Building Beautiful Apps Faster with Material Components on Android (Kotlin)](https://codelabs.developers.google.com/codelabs/mdc-android-kotlin/index.html)
 
-## MDC-iOS
+## Material Components iOS (MDC-iOS)
 
 ### MDC-iOS Resources
 
