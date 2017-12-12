@@ -65,6 +65,7 @@ among your friends! Thank you!
 ### Projects Using MDC-Web
 
 - Open Source
+  - [GoogleChromeLabs/sample-currency-converter](https://github.com/GoogleChromeLabs/sample-currency-converter) - A sample currency conversion Progressive Web App
   - [mya-ake/vuejs-pwa-and-ssr-on-lambda](https://github.com/mya-ake/vuejs-pwa-and-ssr-on-lambda) - Vue.js Progressive Web App with SSR
 
 ## MDC-Android
