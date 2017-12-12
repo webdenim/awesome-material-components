@@ -21,9 +21,9 @@ among your friends! Thank you!
   - [MDC-Web Resources](#mdc-web-resources)
   - [MDC-Web Framework Integrations](#mdc-web-framework-integrations)
   - [Projects Using MDC-Web](#projects-using-mdc-web)
-- [MDC-Android](#material-components-web-mdc-android)
+- [MDC-Android](#material-components-android-mdc-android)
   - [MDC-Android Resources](#mdc-android-resources)
-- [MDC-iOS](#material-components-web-mdc-ios)
+- [MDC-iOS](#material-components-ios-mdc-ios)
   - [MDC-iOS Resources](#mdc-ios-resources)
 
 ## Material Components Web (MDC-Web)
