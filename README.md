@@ -41,7 +41,7 @@ among your friends! Thank you!
 ### MDC-Web Framework Integrations
 
 * Angular
-  - [trimox/angular-mdc-web](https://github.com/trimox/angular-mdc-web)
+  - [trimox/angular-mdc-web](https://github.com/trimox/angular-mdc-web) | [Demo](https://trimox.github.io/angular-mdc-web) | [Dev chat](https://gitter.im/angular-mdc/Lobby)
   - [src-zone/material](https://github.com/src-zone/material)
 * Angular.js
   - [fintechstudios/angularjs-mdc](https://github.com/fintechstudios/angularjs-mdc)
@@ -54,11 +54,11 @@ among your friends! Thank you!
 * React
   - [kradio3/react-mdc-web](https://github.com/kradio3/react-mdc-web)
   - [react-mdc/react-material-components-web](https://github.com/react-mdc/react-material-components-web) - typed with TypeScript.
-  - [jamesmfriedman/rmwc](https://github.com/jamesmfriedman/rmwc)
+  - [jamesmfriedman/rmwc](https://github.com/jamesmfriedman/rmwc) | [Demo](https://jamesmfriedman.github.io/rmwc/) | [Dev chat](https://gitter.im/react-material-web-components/Lobby)
   - [react-material-design/react-material-design](https://github.com/react-material-design/react-material-design)
   - [gutenye/react-mc](https://github.com/gutenye/react-mc)
 * Vue
-  - [stasson/vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter)
+  - [stasson/vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) | [Demo](https://stasson.github.io/vue-mdc-adapter) | [Dev chat](https://gitter.im/vue-mdc-adapter/Lobby)
   - [matsp/material-components-vue](https://github.com/matsp/material-components-vue)
   - [balmjs/ui-vue](https://github.com/balmjs/ui-vue)
 
