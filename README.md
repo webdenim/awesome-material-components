@@ -53,14 +53,16 @@ among your friends! Thank you!
 * Preact
   - [prateekbh/preact-material-components](https://github.com/prateekbh/preact-material-components)
 * React
-  - [kradio3/react-mdc-web](https://github.com/kradio3/react-mdc-web)
-  - [react-mdc/react-material-components-web](https://github.com/react-mdc/react-material-components-web) - typed with TypeScript.
-  - [jamesmfriedman/rmwc](https://github.com/jamesmfriedman/rmwc) | [Demo](https://jamesmfriedman.github.io/rmwc/) | [Dev chat](https://gitter.im/react-material-web-components/Lobby)
+  - [kradio3/react-mdc-web](https://github.com/kradio3/react-mdc-web) - Simple React.js wrapper, not using foundation classes.
+  - [react-mdc/react-material-components-web](https://github.com/react-mdc/react-material-components-web) - React.js wrapper typed with TypeScript.
+  - [jamesmfriedman/rmwc](https://github.com/jamesmfriedman/rmwc) - A thin React wrapper, using foundation classes.
+  [Demo](https://jamesmfriedman.github.io/rmwc/) - [Dev chat](https://gitter.im/react-material-web-components/Lobby)
   - [react-material-design/react-material-design](https://github.com/react-material-design/react-material-design)
   - [gutenye/react-mc](https://github.com/gutenye/react-mc)
 * Vue
-  - [stasson/vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) | [Demo](https://stasson.github.io/vue-mdc-adapter) | [Dev chat](https://gitter.im/vue-mdc-adapter/Lobby)
-  - [matsp/material-components-vue](https://github.com/matsp/material-components-vue)
+  - [stasson/vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - Vue.js wrapper, using foundation classes.
+  [Demo](https://stasson.github.io/vue-mdc-adapter) - [Dev chat](https://gitter.im/vue-mdc-adapter/Lobby)
+  - [matsp/material-components-vue](https://github.com/matsp/material-components-vue) - Simple Vue.js wrapper, not using foundation classes.
   - [balmjs/ui-vue](https://github.com/balmjs/ui-vue)
 
 ### Projects Using MDC-Web
