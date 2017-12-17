@@ -41,7 +41,8 @@ among your friends! Thank you!
 ### MDC-Web Framework Integrations
 
 * Angular
-  - [trimox/angular-mdc-web](https://github.com/trimox/angular-mdc-web) | [Demo](https://trimox.github.io/angular-mdc-web) | [Dev chat](https://gitter.im/angular-mdc/Lobby)
+  - [trimox/angular-mdc-web](https://github.com/trimox/angular-mdc-web) - Angular Material Design Components.
+  [Demo](https://trimox.github.io/angular-mdc-web) - [Dev chat](https://gitter.im/angular-mdc/Lobby)
   - [src-zone/material](https://github.com/src-zone/material)
 * Angular.js
   - [fintechstudios/angularjs-mdc](https://github.com/fintechstudios/angularjs-mdc)
