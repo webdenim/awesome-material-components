@@ -37,9 +37,9 @@ among your friends! Thank you!
   - [StackOverflow Questions](https://stackoverflow.com/questions/tagged/material-components+web)
 - Tutorials
   - [CodeLabs - Building Beautiful Sites Faster with Material Components for the web](https://codelabs.developers.google.com/codelabs/mdc-web/index.html)
-  - [Webdenim - Double drawer layout in MDC-Web](https://www.webdenim.io/blog/mdc-web-double-drawer-layout/) - A small tip how to use left and right drawers simulteneously.
+  - [Webdenim - Double drawer layout in MDC-Web](https://www.webdenim.io/blog/mdc-web-double-drawer-layout/) - A small tip how to use left and right drawers simultaneously.
 - Utilities
-  - [shuhei/material-colors](https://github.com/shuhei/material-colors) - Material Design color palette in multiple formats (JS, JSON, Less, Sass, etc.).
+  - [shuhei/material-colors](https://github.com/shuhei/material-colors) - Material Design color palette in different formats (JS, JSON, Less, Sass, etc.).
 
 ### MDC-Web Framework Integrations
 
