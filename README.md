@@ -40,6 +40,7 @@ among your friends! Thank you!
   - [Webdenim - Double drawer layout in MDC-Web](https://www.webdenim.io/blog/mdc-web-double-drawer-layout/) - A small tip how to use left and right drawers simultaneously.
 - Utilities
   - [shuhei/material-colors](https://github.com/shuhei/material-colors) - Material Design color palette in different formats (JS, JSON, Less, Sass, etc.).
+  - [MDC-Web on Fossies](https://fossies.org/diffs/material-components-web/) - The visual way to track the changes in MDC-Web library.
 
 ### MDC-Web Framework Integrations
 
