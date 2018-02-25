@@ -73,6 +73,7 @@ among your friends! Thank you!
 
 - Open Source
   - [GoogleChromeLabs/sample-currency-converter](https://github.com/GoogleChromeLabs/sample-currency-converter) - A sample currency conversion Progressive Web App.
+  - [vuegg/vuegg](https://github.com/vuegg/vuegg) - Vue.js GUI generator.
   - [mya-ake/vuejs-pwa-and-ssr-on-lambda](https://github.com/mya-ake/vuejs-pwa-and-ssr-on-lambda) - Vue.js Progressive Web App with SSR.
 
 ## Material Components Android (MDC-Android)
