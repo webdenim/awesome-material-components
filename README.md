@@ -17,18 +17,18 @@ among your friends! Thank you!
 
 ## Contents
 
-- [MDC-Web](#material-components-web-mdc-web)
-  - [MDC-Web Resources](#mdc-web-resources)
-  - [MDC-Web Framework Integrations](#mdc-web-framework-integrations)
-  - [Projects Using MDC-Web](#projects-using-mdc-web)
-- [MDC-Android](#material-components-android-mdc-android)
-  - [MDC-Android Resources](#mdc-android-resources)
-- [MDC-iOS](#material-components-ios-mdc-ios)
-  - [MDC-iOS Resources](#mdc-ios-resources)
+- [MDC Web](#material-components-web-mdc-web)
+  - [MDC Web Resources](#mdc-web-resources)
+  - [MDC Web Framework Integrations](#mdc-web-framework-integrations)
+  - [Projects Using MDC Web](#projects-using-mdc-web)
+- [MDC Android](#material-components-android-mdc-android)
+  - [MDC Android Resources](#mdc-android-resources)
+- [MDC iOS](#material-components-ios-mdc-ios)
+  - [MDC iOS Resources](#mdc-ios-resources)
 
-## Material Components Web (MDC-Web)
+## Material Components Web (MDC Web)
 
-### MDC-Web Resources
+### MDC Web Resources
 
 - Documentation
   - [Official Website](https://material.io/components/web/)
@@ -36,13 +36,12 @@ among your friends! Thank you!
   - [Official GitHub Repo](https://github.com/material-components/material-components-web)
   - [StackOverflow Questions](https://stackoverflow.com/questions/tagged/material-components+web)
 - Tutorials
-  - [CodeLabs - Building Beautiful Sites Faster with Material Components for the web](https://codelabs.developers.google.com/codelabs/mdc-web/index.html)
-  - [Webdenim - Double drawer layout in MDC-Web](https://www.webdenim.io/blog/mdc-web-double-drawer-layout/) - A small tip how to use left and right drawers simultaneously.
+  - [CodeLabs - Building Beautiful Sites Faster with Material Components for the web](https://codelabs.developers.google.com/codelabs/mdc-web/index.html).
 - Utilities
   - [shuhei/material-colors](https://github.com/shuhei/material-colors) - Material Design color palette in different formats (JS, JSON, Less, Sass, etc.).
-  - [MDC-Web on Fossies](https://fossies.org/diffs/material-components-web/) - The visual way to track the changes in MDC-Web library.
+  - [MDC Web on Fossies](https://fossies.org/diffs/material-components-web/) - The visual way to track the changes in MDC Web library.
 
-### MDC-Web Framework Integrations
+### MDC Web Framework Integrations
 
 * Angular
   - [trimox/angular-mdc-web](https://github.com/trimox/angular-mdc-web) - Angular Material Design Components.
@@ -57,10 +56,11 @@ among your friends! Thank you!
 * Preact
   - [prateekbh/preact-material-components](https://github.com/prateekbh/preact-material-components)
 * React
-  - [kradio3/react-mdc-web](https://github.com/kradio3/react-mdc-web) - Simple React.js wrapper, not using foundation classes.
-  - [react-mdc/react-material-components-web](https://github.com/react-mdc/react-material-components-web) - React.js wrapper typed with TypeScript.
+  - [material-components/material-components-web-react](https://github.com/material-components/material-components-web-react) - React.js wrapper by Material Components team.
   - [jamesmfriedman/rmwc](https://github.com/jamesmfriedman/rmwc) - A thin React wrapper, using foundation classes.
   [Demo](https://jamesmfriedman.github.io/rmwc/) - [Dev chat](https://gitter.im/react-material-web-components/Lobby)
+  - [react-mdc/react-material-components-web](https://github.com/react-mdc/react-material-components-web) - React.js wrapper typed with TypeScript.
+  - [kradio3/react-mdc-web](https://github.com/kradio3/react-mdc-web) - Simple React.js wrapper, not using foundation classes.
   - [react-material-design/react-material-design](https://github.com/react-material-design/react-material-design)
   - [gutenye/react-mc](https://github.com/gutenye/react-mc)
 * Vue
@@ -69,16 +69,15 @@ among your friends! Thank you!
   - [matsp/material-components-vue](https://github.com/matsp/material-components-vue) - Simple Vue.js wrapper, not using foundation classes.
   - [balmjs/ui-vue](https://github.com/balmjs/ui-vue)
 
-### Projects Using MDC-Web
+### Projects Using MDC Web
 
 - Open Source
   - [GoogleChromeLabs/sample-currency-converter](https://github.com/GoogleChromeLabs/sample-currency-converter) - A sample currency conversion Progressive Web App.
   - [vuegg/vuegg](https://github.com/vuegg/vuegg) - Vue.js GUI generator.
-  - [mya-ake/vuejs-pwa-and-ssr-on-lambda](https://github.com/mya-ake/vuejs-pwa-and-ssr-on-lambda) - Vue.js Progressive Web App with SSR.
 
-## Material Components Android (MDC-Android)
+## Material Components Android (MDC Android)
 
-### MDC-Android Resources
+### MDC Android Resources
 
 - Documentation
   - [Official Website](https://material.io/components/android/)
@@ -89,9 +88,9 @@ among your friends! Thank you!
   - [CodeLabs - Building Beautiful Apps Faster with Material Components on Android](https://codelabs.developers.google.com/codelabs/mdc-android/index.html)
   - [CodeLabs - Building Beautiful Apps Faster with Material Components on Android (Kotlin)](https://codelabs.developers.google.com/codelabs/mdc-android-kotlin/index.html)
 
-## Material Components iOS (MDC-iOS)
+## Material Components iOS (MDC iOS)
 
-### MDC-iOS Resources
+### MDC iOS Resources
 
 - Documentation
   - [Official Website](https://material.io/components/ios/)
