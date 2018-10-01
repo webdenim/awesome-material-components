@@ -68,6 +68,8 @@ among your friends! Thank you!
   [Demo](https://stasson.github.io/vue-mdc-adapter) - [Dev chat](https://gitter.im/vue-mdc-adapter/Lobby)
   - [matsp/material-components-vue](https://github.com/matsp/material-components-vue) - Simple Vue.js wrapper, not using foundation classes.
   - [balmjs/ui-vue](https://github.com/balmjs/ui-vue)
+* Elm
+  - [aforemny/elm-mdc](https://github.com/aforemny/elm-mdc) - Elm port of the Material Components for the Web.
 
 ### Projects Using MDC Web
 
