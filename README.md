@@ -39,6 +39,7 @@ among your friends! Thank you!
   - [CodeLabs - Building Beautiful Sites Faster with Material Components for the web](https://codelabs.developers.google.com/codelabs/mdc-web/index.html).
 - Utilities
   - [shuhei/material-colors](https://github.com/shuhei/material-colors) - Material Design color palette in different formats (JS, JSON, Less, Sass, etc.).
+  - [webdenim/stylelint-config-material](https://github.com/webdenim/stylelint-config-material) - Stylelint config for Material Components Web.
   - [MDC Web on Fossies](https://fossies.org/diffs/material-components-web/) - The visual way to track the changes in MDC Web library.
 
 ### MDC Web Framework Integrations
